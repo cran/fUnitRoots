@@ -1,13 +1,12 @@
-d41d8cd98f00b204e9800998ecf8427e *ChangeLog
-864a7c952cc6e61f9879a17e6c73340b *DESCRIPTION
-2d81b43a093ba406a59d3bfb48256652 *NAMESPACE
+0978f136925c5dfc07e78c8f21895a53 *ChangeLog
+b702088193f7e0d598433a11cb69fd0b *DESCRIPTION
+083b97c04a7552bb7e365eb371c82acd *NAMESPACE
 40edbd7f4354eefc5d53a7543b29b9b9 *R/DickeyFullerPValues.R
 bb8e764b2c5361a3651005052bdab6a2 *R/MacKinnonPValues.R
 35ac016aa28d55afb2cf80fca5b023be *R/UnitrootTests.R
-2b9f07fce766aa5540ef3be5adc3b74a *R/UnitrootUrcaInterface.R
+bff20930a588974144397fda88b6d04b *R/UnitrootUrcaInterface.R
 e4221e49b35c0f7fa73a1de4350806ec *R/zzz.R
 6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
-8b32ea564a484f83d2bbbabef35dc37e *inst/DocCopying.pdf
 cf086ce2edda5147cda840865b36deab *inst/unitTests/Makefile
 22f90b37db8e97315237b33b182c6749 *inst/unitTests/runTests.R
 771f258d003dd97f40438c09dd911d18 *inst/unitTests/runit.DickeyFullerPValues.R
@@ -17,6 +16,6 @@ dcf37c94bdf5249a4ad06d2576e36dc5 *inst/unitTests/runit.UnitrootTests.R
 daf5a9b426a80e9de7c9d8f942024b1b *man/DickeyFullerPValues.Rd
 9fcff3ced79896862a140cc308d7a086 *man/MacKinnonPValues.Rd
 8a67de8fd689bba2b30b3f154a570961 *man/UnitrootTests.Rd
-7433f3c4dd17d6c452c9b8dad1f1206d *man/UnitrootUrcaInterface.Rd
+09f4a4e81cbd2c9b75b466290b594611 *man/UnitrootUrcaInterface.Rd
 1d848c9e918f0eafbb64d4aa0e593e78 *src/Makevars
-805f61efb1190b250e2140d1ee153a09 *src/UnitRootMacKinnon.f
+62dc6239beba43b5febe5a4e18081793 *src/UnitRootMacKinnon.f

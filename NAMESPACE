@@ -1,14 +1,56 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
 
-# Export all names
-exportPattern(".")
+################################################
+## Note this file has been automatically
+## generated --- Do not edit it.
+################################################
 
-# Import all packages listed as Imports or Depends
-import(
-  urca,
-  methods,
-  timeDate,
-  timeSeries,
-  fBasics
-)
+
+################################################
+## import name space
+################################################
+
+import("urca")
+import("methods")
+import("timeDate")
+import("timeSeries")
+import("fBasics")
+
+################################################
+## useDynLib
+################################################
+
+useDynLib("fUnitRoots")
+
+################################################
+## S4 classes
+################################################
+
+
+################################################
+## S3 classes
+################################################
+
+
+################################################
+## functions
+################################################
+
+export(
+    ".adfPlot",
+    ".strsplitUrcval",
+    ".urTest",
+    ".urcval",
+    "adfTable",
+    "adfTest",
+    "padf",
+    "punitroot",
+    "qadf",
+    "qunitroot",
+    "unitrootTable",
+    "unitrootTest",
+    "urdfTest",
+    "urersTest",
+    "urkpssTest",
+    "urppTest",
+    "urspTest",
+    "urzaTest" )
