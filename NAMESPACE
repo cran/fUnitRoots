@@ -8,19 +8,23 @@
 ## useDynLib
 ################################################
 
-useDynLib("fUnitRoots")
+useDynLib("fUnitRoots", .registration=TRUE)
 
 ################################################
 ## import name space
 ################################################
 
-import("timeDate")
-import("timeSeries")
-import("fBasics")
+#import("timeDate")
+
+importFrom("timeSeries", description, series, plot)
+
+importFrom("fBasics", linearInterp, linearInterpp)
 
 importFrom("graphics", persp)
-importFrom("methods", new)
-importFrom("stats", approx, embed, lm)
+
+importFrom("methods", new, is)
+
+importFrom("stats", approx, embed, lm, na.omit)
 importFrom("utils", capture.output)
 
 
@@ -28,5 +32,19 @@ importFrom("utils", capture.output)
 ## functions
 ################################################
 
-exportPattern(".")
-
+export(
+    adfTable,
+    adfTest,
+    padf,
+    punitroot,
+    qadf,
+    qunitroot,
+    unitrootTable,
+    unitrootTest,
+    urdfTest,
+    urersTest,
+    urkpssTest,
+    urppTest,
+    urspTest,
+    urzaTest
+)
