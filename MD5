@@ -1,7 +1,7 @@
 980f641a5916cbc6042e83e1983cf7cd *ChangeLog
-1b544f4a9adf5baf7e3750aac57f838d *DESCRIPTION
+2a36f1ccd37817c8680359e4d09adb59 *DESCRIPTION
 b4ccf5a05da9e3c5ec72669b0ea11ce7 *NAMESPACE
-365b358cb10ede48dbfb1ffa5b5c4d4b *NEWS.md
+383dc9d8347229b67dbaf7b22e4a5f44 *NEWS.md
 a204582b6b6e66fa18c0497d79da6cdf *R/DickeyFullerPValues.R
 cc678c20f00d18631c771be18c057ae8 *R/MacKinnonPValues.R
 7dd809023552cc1be99b90e07f5791df *R/UnitrootTests.R
@@ -19,5 +19,5 @@ d9a6665fa8764908dd9f92f2e7990477 *man/00fUnitroots-package.Rd
 ad7635561ea095173b751823097d1c0e *man/UnitrootTests.Rd
 c621cff58440021b446733dff6645a8a *man/UnitrootUrcaInterface.Rd
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
-09e215aa0bdff874d1af536d071e04a6 *src/UnitRootMacKinnon.f
+21fdb368d5e7e1930e24fb237c6e6e75 *src/UnitRootMacKinnon.f
 11f5e4460a5144aaac77bf7db910e0be *src/init.c

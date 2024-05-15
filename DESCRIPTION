@@ -1,7 +1,6 @@
 Package: fUnitRoots
 Title: Rmetrics - Modelling Trends and Unit Roots
-Date: 2022-07-22
-Version: 4021.80
+Version: 4040.81
 Authors@R: c(person("Diethelm", "Wuertz", role="aut", comment = "original code")
 	   , person("Tobias", "Setz", role = c("aut"), email = "tobias.setz@live.com")
 	   , person("Yohan", "Chalabi", role = "aut")
@@ -20,14 +19,14 @@ Suggests: RUnit
 License: GPL (>= 2)
 URL:
         https://r-forge.r-project.org/scm/viewvc.php/pkg/fUnitRoots/?root=rmetrics
-        )devel), https://www.rmetrics.org
+        (devel), https://www.rmetrics.org
 BugReports: https://r-forge.r-project.org/projects/rmetrics
 NeedsCompilation: yes
-Packaged: 2022-08-06 07:34:37 UTC; georgi
+Packaged: 2024-05-14 17:14:37 UTC; Georgi
 Author: Diethelm Wuertz [aut] (original code),
   Tobias Setz [aut],
   Yohan Chalabi [aut],
   Georgi N. Boshnakov [cre]
 Maintainer: Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>
 Repository: CRAN
-Date/Publication: 2022-08-06 14:00:17 UTC
+Date/Publication: 2024-05-15 08:50:17 UTC
